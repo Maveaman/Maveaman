@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... SQL, POWER BI PROJECTS
 - 📫 How to reach me ...Email- aamansharma027@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... Fast leaarner, Spiritual, cyclist
+- ⚡ Fun fact: ... Fast learner, Spiritual, cyclist
 
 <!---
 Maveaman/Maveaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
