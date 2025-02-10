@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Maveaman
-- 👀 I’m interested in ... Data Analyst, Business Analyst & Marketing Analyst
-- 🌱 I’m currently learning ... Data Analyst
-- 💞️ I’m looking to collaborate on ... SQL, POWER BI PROJECTS
-- 📫 How to reach me ...Email- aamansharma027@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Fast learner, Spiritual, cyclist
+Aman Kumar Sharma
+🚀 Data & Business Analyst | Power BI Developer | Project Management Enthusiast
 
-<!---
-Maveaman/Maveaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Passionate about data analytics, business intelligence, and process optimization. I specialize in transforming raw data into meaningful insights using Power BI, SQL, and Excel to drive business decisions and operational efficiency.
+
+📊 Skills & Expertise:
+
+Data Analytics & BI: Power BI, SQL, Excel, Tableau
+Project Management: Jira, Agile Methodologies, Six Sigma (White, Yellow, Green Belt)
+Process Improvement: Lean Six Sigma, Workflow Automation, Business Optimization
+Business Insights: Market Research, Customer Analytics, Performance Metrics
+Technology & Tools: AWS, Google Suite, Data Automation
+📬 Let’s Connect
