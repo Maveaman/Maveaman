@@ -5,9 +5,9 @@ Aman Kumar Sharma
 
 📊 Skills & Expertise:
 
-Data Analytics & BI: Power BI, SQL, Excel, Tableau
-Project Management: Jira, Agile Methodologies, Six Sigma (White, Yellow, Green Belt)
-Process Improvement: Lean Six Sigma, Workflow Automation, Business Optimization
-Business Insights: Market Research, Customer Analytics, Performance Metrics
-Technology & Tools: AWS, Google Suite, Data Automation
+* Data Analytics & BI: Power BI, SQL, Excel, Tableau
+* Project Management: Jira, Agile Methodologies, Six Sigma (White, Yellow, Green Belt)
+* Process Improvement: Lean Six Sigma, Workflow Automation, Business Optimization
+* Business Insights: Market Research, Customer Analytics, Performance Metrics
+* Technology & Tools: AWS, Google Suite, Data Automation
 📬 Let’s Connect
